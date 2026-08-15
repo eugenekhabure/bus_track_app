@@ -2,6 +2,7 @@ plugins {
     id "com.android.application"
     id "org.jetbrains.kotlin.android"
     id "dev.flutter.flutter-gradle-plugin"
+    id "com.google.gms.google-services"
 }
 
 def localProperties = new Properties()
@@ -23,8 +24,8 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.bus_track_app_clean_build"
-    compileSdk 36          // ✅ Changed from 34 to 36
+    namespace "com.axolotls.vdaraguardian"
+    compileSdk 36          // ✅ fixed
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
@@ -41,9 +42,9 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.bus_track_app_clean_build"
+        applicationId "com.axolotls.vdaraguardian"
         minSdkVersion flutter.minSdkVersion
-        targetSdk 36        // ✅ Changed from 34 to 36
+        targetSdk 36       // ✅ fixed
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
