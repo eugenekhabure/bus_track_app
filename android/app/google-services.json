@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "956549805901",
+    "project_id": "vdara-f70e9",
+    "storage_bucket": "vdara-f70e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956549805901:android:df95df9c0b0dc2594ae904",
+        "android_client_info": {
+          "package_name": "com.axolotls.vdaradriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956549805901-l424gukj9jm2kk0um7nc2juehilvid8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC282F-WofUa8H9O6hWpFPgT5LMQdL5kmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956549805901-l424gukj9jm2kk0um7nc2juehilvid8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956549805901-98g026j9eo9o8v41kd07bdaddfqic07d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creativeapps.schoolTripTrackGuardian"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956549805901:android:1cc9c444f2e975dd4ae904",
+        "android_client_info": {
+          "package_name": "com.axolotls.vdaraguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956549805901-l424gukj9jm2kk0um7nc2juehilvid8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC282F-WofUa8H9O6hWpFPgT5LMQdL5kmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956549805901-l424gukj9jm2kk0um7nc2juehilvid8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956549805901-98g026j9eo9o8v41kd07bdaddfqic07d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.creativeapps.schoolTripTrackGuardian"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
